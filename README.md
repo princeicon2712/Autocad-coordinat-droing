@@ -6,9 +6,9 @@
 
 ## Coordinate Droing of manual
 
-E2=Sin(0)*Distance+E1
+x------ E2=Sin(0)*Distance+E1 [ exapmpol:- sin(angle)*kotodur jabo+  bace coordinat
 
-N2=cos(0)*Distance+N1
+Y-------- N2=cos(0)*Distance+N1
 
 
 
